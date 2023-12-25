@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlvbTVibnZ0ZTJiZ2s3MTkyYnB4d281NmxiaHMxYXZhYXk2ZGtpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif)]
+
 <h1 align="center">Hi 👋, I'm Neslihan Şeker</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img align="right" alt= "Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
